@@ -1,58 +1,52 @@
 ---
 enable: true
-topTitle: My Resume
 title: >
-  ## My Expertises
+  ## My Experience
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  I have six years of experience as a Front-End engineer working for startups and large size companies. In the span of the last four years, I have collaborated on a team of Front-End engineers that began with four engineers and grew to sixteen.
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
-tab1Target: education
-tab2Target: experience
+  My Ethereum experience comes out of participating in hackathons and collaborating with others in the Ethereum community.
+tab1Name: Experiences
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
 
 education:
   - content: >
-      #### Master in Arts
+      #### Apprenticeship - Web Developer
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Training in the development of responsive websites and mobile applications.
+    time: 2015 - 2016
   - content: >
-      #### Master in Arts
+      #### Apprenticeship - Post-Production
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Detailed training in the various post-production stages of an audiovisual project.
+    time: February 2013 - July 2013
   - content: >
-      #### Master in Arts
+      #### Professional License TAIS CIAN
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Creative and technical training in video production and web development.
+    time: 2011 - 2012
   - content: >
-      #### Master in Arts
+      #### DUT Services and Communication Networks
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Creative and technical training in design, marketing, video production and web development.
+    time: 2009 - 2011
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Meilleurs Agents
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Development of real estate tools for realtors and everyday users to find property listings and estimate pricing.
+    time: May 2017 - Current
   - content: >
-      #### Aperture Science 
+      #### JS-Republic
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Created and maintained web applications for key clients such as Altares D&B, AXA Bank and VINCI.
+    time: April 2016 - April 2017
   - content: >
-      #### ACME Inc. 
+      #### Oxynum
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Developed website and mobile applications for European startups and IT companies.
+    time: April 2015 - March 2016
