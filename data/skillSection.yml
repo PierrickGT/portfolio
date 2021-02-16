@@ -1,17 +1,51 @@
 ---
 enable: true
-topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
-
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
-
-image: images/skill/skill_image.jpg
+  ## My Skills
 
 skill:
   - title: HTML
-    percent: 69
+    image: images/skill/html-5.svg
+    col: col-lg-2
   - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+    image: images/skill/css-3.svg
+    col: col-lg-2
+  - title: JavaScript
+    image: images/skill/javascript.svg
+    col: col-lg-2
+  - title: TypeScript
+    image: images/skill/typescript-icon.svg
+    col: col-lg-2
+  - title: React
+    image: images/skill/react.svg
+    col: col-lg-2
+  - title: Sass
+    image: images/skill/sass.svg
+    col: col-lg-2
+  - title: Redux
+    image: images/skill/redux.svg
+    col: col-lg-2
+  - title: GraphQL
+    image: images/skill/graphql.svg
+    col: col-lg-2
+  - title: Jinja
+    image: images/skill/jinja_logo.png
+    col: col-lg-2
+  - title: jQuery
+    image: images/skill/jquery.svg
+    col: col-lg-2
+  - title: Jest
+    image: images/skill/jest.svg
+    col: col-lg-2
+  - title: React Testing Library
+    image: images/skill/octopus-128x128.png
+    col: col-lg-3
+  - title: Cypress
+    image: images/skill/cypress.svg
+    col: col-lg-2
+  - title: Node.js
+    image: images/skill/nodejs-icon.svg
+    col: col-lg-2
+  - title: MongoDB
+    image: images/skill/mongodb.svg
+    col: col-lg-2
