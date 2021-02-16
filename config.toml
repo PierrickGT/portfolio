@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Pierrick Turelier - Front-End Developer (JavaScript, TypeScript, React, Redux)"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -13,43 +13,47 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
-[[menu.main]]
 name = "Work"
 url = "#portfolio"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Resume"
 url = "#resume"
+weight = 4
+[[menu.main]]
+name = "Skills"
+url = "#skill"
 weight = 5
 [[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 6
-[[menu.main]]
 name = "Contact"
-url = "#contact"
-weight = 7
+url = "contact"
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Home"
+url = "#home"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "About me"
+url = "about"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
+name = "My Portfolio"
+url = "#portfolio"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
-url = "#"
+name = "My Experience"
+url = "#resume"
 weight = 4
+[[menu.sitemap]]
+name = "My Skills"
+url = "#skill"
+weight = 5
+[[menu.sitemap]]
+name = "Contact me"
+url = "contact"
+weight = 6
 
 [params]
 blogPageURL = "blog"
@@ -57,35 +61,50 @@ contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "UA-25791988-1"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
-
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
+email = "pierrick@turelier.com"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+icon = "fab fa-linkedin"
+url = "https://www.linkedin.com/in/pierrickgt/"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+icon = "fab fa-github"
+url = "https://github.com/PierrickGT"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fab fa-codepen"
+url = "https://codepen.io/PierrickGT"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
+icon = "fab fa-twitter"
+url = "https://twitter.com/pierrickgt"
 weight = 4
+[[params.social]]
+icon = "fab fa-instagram"
+url = "https://www.instagram.com/pierrickgt/"
+weight = 5
+[[params.social]]
+icon = "fab fa-goodreads"
+url = "https://goodreads.com/pierrick"
+weight = 6
+[[params.social]]
+icon = "fas fa-record-vinyl"
+url = "https://www.discogs.com/user/PierrickGT/collection"
+weight = 7
+[[params.social]]
+icon = "fas fa-gamepad"
+url = "https://rawg.io/@pierrick"
+weight = 8
+[[params.social]]
+icon = "fas fa-film"
+url = "https://letterboxd.com/pierrick/"
+weight = 9
+[[params.social]]
+icon = "fas fa-desktop"
+url = "https://trakt.tv/users/pierrick"
+weight = 10
