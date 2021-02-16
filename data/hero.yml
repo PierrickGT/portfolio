@@ -1,13 +1,11 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Bonjour, I'm Pierrick
 content: >
-  # I am here for your personal business
+  # JavaScript Front-End Developer
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  I'm a French-born software engineer living in the US. My interests include decentralized finance on Ethereum and accessibility.
 buttonName: Contact me
 buttonURL: contact
-image: images/hero/2960351.jpg
+image: images/hero/profile-2018.jpg
 videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
