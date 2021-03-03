@@ -2,6 +2,8 @@
 title: Hackathon Winner 👻 PoolTogether Aave Pool
 date: 2020-08-12T18:07:16.000+06:00
 thumbnail: images/portfolio/PoolTogether-Aave-Pool.png
+videoThumb: ../../images/portfolio/PoolTogether-Aave-Pool.png
+videoURL: https://www.youtube.com/watch?v=5oWdmK3dLFs
 shortDescription: In October 2020, I created a PoolTogether Pool using the liquidity protocol Aave. PoolTogether Pools generate prize money from the accrued interest of yield protocols; making for a no-loss money lottery. The aptly named Aave Pool indeed uses Aave protocol to generate and pool the yield prize money.
 challenge: This was my first time writing my own smart contract. Before starting to code, I first had to understand how version three of the PoolTogether protocol worked and also how Aave worked in order to integrate them together.
 solution: I educated myself on both protocols by reaching out for advice from community members on Discord and reading documentation provided by Aave and PoolTogether. I also built a DApp for users to join and exit the Aave Pool.
