@@ -16,6 +16,9 @@ skill:
   - title: TypeScript
     image: images/skill/typescript-icon.svg
     col: col-lg-2
+  - title: Solidity
+    image: images/skill/solidity.svg
+    col: col-lg-2
   - title: React
     image: images/skill/react.svg
     col: col-lg-2
@@ -42,6 +45,9 @@ skill:
     col: col-lg-3
   - title: Cypress
     image: images/skill/cypress.svg
+    col: col-lg-2
+  - title: Hardhat
+    image: images/skill/hardhat.jpeg
     col: col-lg-2
   - title: Node.js
     image: images/skill/nodejs-icon.svg

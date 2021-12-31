@@ -26,7 +26,7 @@ url = "#skill"
 weight = 5
 [[menu.main]]
 name = "Contact"
-url = "contact"
+url = "#contact"
 weight = 6
 
 # Sitemap Menu
@@ -36,7 +36,7 @@ url = "#home"
 weight = 1
 [[menu.sitemap]]
 name = "About me"
-url = "about"
+url = "#about"
 weight = 2
 [[menu.sitemap]]
 name = "My Portfolio"
@@ -52,13 +52,12 @@ url = "#skill"
 weight = 5
 [[menu.sitemap]]
 name = "Contact me"
-url = "contact"
+url = "#contact"
 weight = 6
 
 [params]
 blogPageURL = "blog"
-contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © Turelier LLC 2022"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "UA-25791988-1"

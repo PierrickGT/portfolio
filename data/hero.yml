@@ -2,10 +2,10 @@
 enable: true
 topTitle: Bonjour, I'm Pierrick
 content: >
-  # JavaScript Front-End Developer
+  # Smart Contract Engineer
 
-  I'm a French-born software engineer living in the US. My interests include decentralized finance on Ethereum and accessibility.
+  I'm a French-born software engineer living in the US. My interests include decentralized finance on Ethereum and ease of use interfaces.
 buttonName: Contact me
-buttonURL: contact
+buttonURL: mailto:pierrick@turelier.com
 image: images/hero/profile-2018.jpg
 videoThumb: images/hero/popup-thumb.png

@@ -20,6 +20,10 @@ skill:
     image: ../../images/skill/typescript-icon.svg
     cat: languages
     col: col-lg-2
+  - title: Solidity
+    image: ../../images/skill/solidity.svg
+    col: col-lg-2
+    cat: languages
   - title: React
     image: ../../images/skill/react.svg
     cat: ui-building
@@ -42,10 +46,6 @@ skill:
     col: col-lg-2
   - title: Truffle
     image: ../../images/skill/truffle.svg
-    col: col-lg-2
-    cat: smart-contracts
-  - title: Solidity
-    image: ../../images/skill/solidity.svg
     col: col-lg-2
     cat: smart-contracts
 ---
