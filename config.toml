@@ -1,32 +1,32 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Pierrick Turelier - Front-End Developer (JavaScript, TypeScript, React, Redux)"
+title = "Pierrick Turelier - Smart Contract Engineer (Solidity, JavaScript, TypeScript)"
 # Main Menu
 [[menu.main]]
 name = "Home"
-url = "#home"
+url = "/#home"
 weight = 1
 [[menu.main]]
 name = "About"
-url = "#about"
+url = "/#about"
 weight = 2
 [[menu.main]]
 name = "Work"
-url = "#portfolio"
+url = "/#portfolio"
 weight = 3
 [[menu.main]]
 name = "Resume"
-url = "#resume"
+url = "/#resume"
 weight = 4
 [[menu.main]]
 name = "Skills"
-url = "#skill"
+url = "/#skill"
 weight = 5
 [[menu.main]]
 name = "Contact"
-url = "#contact"
+url = "/#contact"
 weight = 6
 
 # Sitemap Menu
