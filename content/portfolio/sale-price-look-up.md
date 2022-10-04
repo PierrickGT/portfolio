@@ -7,6 +7,10 @@ videoURL: ../../videos/SalePriceLookUp.mp4
 shortDescription: At Meilleurs Agents, I developed a public-facing form to help users research house sales. The form pulls up realtor data on house sale prices based on criteria entered by the user.
 challenge: In order to retain users, the form needed to feel short and intuitive while gathering enough information from the user to give them relevant search results. At the same time, the form served as a tool to collect potential clients' information to share with realtors on our platform.
 solution: We built a multi-step form with a progress bar to keep user interest. To ensure that user contact info was accurate enough to pass on to our realtors, we implemented an SMS verification modal.
+section:
+  - cat: languages
+  - cat: ui-building
+  - cat: ui-testing
 skill:
   - title: HTML
     image: ../../images/skill/html-5.svg
